@@ -124,7 +124,7 @@ kalau microservices2 itu bionic
 
 ![Screenshot (2449).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/8c4c6411-fba9-40f6-b642-dc7b46975d86.png)
 
-![Screenshot (2451).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/34af1da1-4287-4436-b1e5-7cc943c30d4b.png)
+![Screenshot (2451).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/4da381fc-4434-4ec6-a56a-c1ba1c321dbe.png)
 
 kalau microsevices memakai focal
 
@@ -144,7 +144,7 @@ gateway4 : 10.0.3.1
 
 seperti dibawah
 
-![Screenshot (2456).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/660e0254-69cb-4415-b988-9ca73ae2e725.png)
+![Screenshot (2456).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/6c3c9fc9-2125-43af-82fc-952e1bb34b59.png)
 
 kemudian lakukan update dan upgrade
 
