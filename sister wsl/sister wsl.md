@@ -6,7 +6,7 @@ install wsl
 2. ketik wsl install
 3. ikuti langkah dibawah ini
 
-![Screenshot (2392).png](Sistem%20Terdistribusi%201a110be387da47beb95c6486f62eb54a/21847703-01c1-4976-9725-54b8e21f2437.png)
+![Screenshot (2392).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/21847703-01c1-4976-9725-54b8e21f2437.png)
 
 sudo apt install wsl
 
