@@ -1,5 +1,6 @@
 # Sistem Terdistribusi
-
+seperti ini perintah nya
+![Screenshot (perintah).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/perintah.png)
 install wsl
 
 1. buka ubuntu kemudian run as administrator
