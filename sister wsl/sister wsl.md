@@ -56,7 +56,7 @@ seperti ini
 
 jangan lupa ganti server name ke sister.local
 
-![Screenshot (2424).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/7ff85834-1593-4f09-8dc3-8685b63a3a87.png)
+![Screenshot (2424).png](https://github.com/retnadwi14/sistem-terdistribusi/blob/main/sister%20wsl/b117d83f-56d8-489f-9a6d-ff8ff49416af.png)
 
 kemudian ctrl x ,y, enter
 
